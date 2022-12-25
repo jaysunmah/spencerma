@@ -1,7 +1,7 @@
 from tornado import template, escape
 import sys
 
-from gallery_descriptions import descriptions
+from gallery_descriptions import dates
 
 div_template = """<div class=\"col-md-4 col-sm-6\">
     <div class=\"portfolio-item\">
@@ -9,8 +9,8 @@ div_template = """<div class=\"col-md-4 col-sm-6\">
             <div class=\"thumb\">
                 <div class=\"hover-effect\">
                     <div class=\"hover-content\">
-                        <h1>{title}</h1>
-                        <p>{subtitle}</p>
+                        <h1></h1>
+                        <p>{date}</p>
                     </div>
                 </div>
                 <div class=\"image\">
@@ -27,8 +27,7 @@ def generate_divs(num_pics):
     for i in range(num_pics + 1):
         div_str = div_template.format(
             spencer_img=str(i),
-            title=descriptions[i]["title"],
-            subtitle=descriptions[i]["subtitle"],
+            date=dates[i],
         )
         res += div_str
     return res

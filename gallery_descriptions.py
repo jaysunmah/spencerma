@@ -1,26 +1,17 @@
-descriptions = [
-    {
-        "title": "Foo",
-        "subtitle": "bar",
-    },
-    {
-        "title": "Foo",
-        "subtitle": "bar",
-    },
-    {
-        "title": "Foo",
-        "subtitle": "bar",
-    },
-    {
-        "title": "Foo",
-        "subtitle": "bar",
-    },
-    {
-        "title": "Foo",
-        "subtitle": "bar",
-    },
-    {
-        "title": "Foo",
-        "subtitle": "bar",
-    },
+dates = [
+    "Nov 25, 2022",
+    "Nov 25, 2022",
+    "Nov 25, 2022",
+    "Nov 26, 2022",
+    "Nov 28, 2022",
+    "Nov 28, 2022",
+    "Dec 4, 2022",
+    "Dec 5, 2022",
+    "Dec 7, 2022",
+    "Dec 10, 2022",
+    "Dec 10, 2022",
+    "Dec 11, 2022",
+    "Dec 18, 2022",
+    "Dec 23, 2022",
+    "Dec 23, 2022",
 ]

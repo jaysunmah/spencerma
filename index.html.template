@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Highway - Free CSS Template</title>
+    <title>Spencer Ma</title>
     <!-- 
 
 Highway Template
@@ -33,9 +33,9 @@ https://templatemo.com/tm-520-highway
         <div class="logo">
             <a href="index.html">Spencer <em>Ma</em></a>
         </div>
-        <div class="menu-icon">
-            <span></span>
-        </div>
+        <!-- <div class="menu-icon"> -->
+        <!-- <span></span> -->
+        <!-- </div> -->
     </nav>
 
     <div id="video-container">
@@ -44,7 +44,7 @@ https://templatemo.com/tm-520-highway
             <div class="inner">
                 <h1><em>Hello! I'm </em>Spencer.</h1>
                 <p>Slayer of 🍼</p>
-                <p>Ejector of 💩</p>
+                <p>Pusher of 💩</p>
                 <p>First of his name 🐴</p>
                 <div class="scroll-icon">
                     <a class="scrollTo" data-scrollTo="portfolio" href="#"><img src="img/scroll-icon.png" alt=""></a>
@@ -63,21 +63,10 @@ https://templatemo.com/tm-520-highway
     </div>
 
 
-    <footer>
-        <div class="container-fluid">
-            <div class="col-md-12">
-                <p>Copyright &copy; 2018 Company Name
-
-                    | Designed by TemplateMo</p>
-            </div>
-        </div>
-    </footer>
-
-
     <!-- Modal button -->
-    <div class="popup-icon">
-        <button id="modBtn" class="modal-btn"><img src="img/contact-icon.png" alt=""></button>
-    </div>
+    <!-- <div class="popup-icon"> -->
+    <!-- <button id="modBtn" class="modal-btn"><img src="img/contact-icon.png" alt=""></button> -->
+    <!-- </div> -->
 
     <!-- Modal -->
     <div id="modal" class="modal">
